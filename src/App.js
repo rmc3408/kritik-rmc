@@ -3,7 +3,7 @@ import CountryList from './components/CountryList'
 
 function App() {
   return (
-    <div>
+    <div className='App'>
       <h2>Selected Countries</h2>
       <CountryList />
     </div>
